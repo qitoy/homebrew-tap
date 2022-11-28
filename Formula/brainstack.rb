@@ -1,10 +1,11 @@
 class Brainstack < Formula
   desc "Brainf*ck based stack-oriented language"
   homepage "https://github.com/vm-xeck/brainstack"
-  url "https://github.com/vm-xeck/brainstack/archive/main.tar.gz"
+  url "https://github.com/vm-xeck/brainstack/archive/a674f2909d331d1537451a98826559375cccaacc.tar.gz"
   version "0.0.0"
-  sha256 ""
+  sha256 "c9840542c97a0ad46415f85466eefbc07c074f499860be5b186398b374baa292"
   license ""
+  head "https://github.com/vm-xeck/brainstack.git", branch: "main"
 
   depends_on "kuin"
 

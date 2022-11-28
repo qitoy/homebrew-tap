@@ -1,10 +1,11 @@
 class Ssss < Formula
   desc "Soreha So Screensaver"
   homepage "https://github.com/vm-xeck/ssss"
-  url "https://github.com/vm-xeck/ssss/archive/main.tar.gz"
+  url "https://github.com/vm-xeck/ssss/archive/484620eaa0826c545269e8d25c5762d97baf78df.tar.gz"
   version "0.0.0"
-  sha256 ""
+  sha256 "e5975beaef1006668b9b19e046d968e166a862346dc095f5ac7d43fdc9d67e3c"
   license ""
+  head "https://github.com/vm-xeck/ssss.git", branch: "main"
 
   depends_on "ncurses"
 
